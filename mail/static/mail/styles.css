@@ -1,0 +1,20 @@
+textarea {
+    min-height: 400px;
+}
+
+.block {
+  display: block;
+  width: 100%;
+  border-style: groove;
+  background-color: #ffffff;
+  color: #0099ff;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.block:hover {
+  background-color: #ccffff;
+  color: black;
+}
